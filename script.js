@@ -14,6 +14,7 @@ const intermissions = [
   'intermission-3.mp3',
   'catchphrase-theme.mp3',
   'countdown-theme.mp3',
+  'bbc-3min.mp3',
   'im-out.mp3',
 ]
 
